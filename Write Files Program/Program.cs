@@ -11,18 +11,19 @@ namespace Write_Files_Program
     {
         static void Main(string[] args)
         {
-            StreamWriter sw = new StreamWriter("Ejemplo.txt",true);
+            // Pedir y Capturar un Nombre
+            Console.Write("Ingresa un Nombre: ");
+            string name = Console.ReadLine();
 
-            string[] Lines = { "Linea 1", "Linea 2", "Linea 3" };
+            // Crear un Archivo.txt
+            StreamWriter sw = new StreamWriter("Nombres.txt",true);
 
+            // Escribir los Nombres en el Archivo.txt
+            sw.WriteLine(name);
 
-            foreach (string Line in Lines)
-            {
-                sw.WriteLine(Line);
-            }
+            sw.Close(); // Cerrar Archivo.txt
 
-            sw.Close();
-
+            // Mensaje de Tarea Realizada
             Console.WriteLine("Escribiendo . . .");
             Console.ReadLine();
         }
