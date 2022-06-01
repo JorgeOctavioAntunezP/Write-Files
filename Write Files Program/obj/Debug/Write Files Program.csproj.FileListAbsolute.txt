@@ -1,0 +1,7 @@
+C:\Users\Jorge\Desktop\Write Files\Write Files Program\bin\Debug\Write Files Program.exe.config
+C:\Users\Jorge\Desktop\Write Files\Write Files Program\bin\Debug\Write Files Program.exe
+C:\Users\Jorge\Desktop\Write Files\Write Files Program\bin\Debug\Write Files Program.pdb
+C:\Users\Jorge\Desktop\Write Files\Write Files Program\obj\Debug\Write Files Program.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\Write Files\Write Files Program\obj\Debug\Write Files Program.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Write Files\Write Files Program\obj\Debug\Write Files Program.exe
+C:\Users\Jorge\Desktop\Write Files\Write Files Program\obj\Debug\Write Files Program.pdb
